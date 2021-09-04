@@ -1,1 +1,1 @@
-# Data-indipendent-pruning-using-Coresets
+# Data-independent-pruning-using-Coresets
