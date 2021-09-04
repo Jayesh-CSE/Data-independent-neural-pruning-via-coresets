@@ -1,4 +1,4 @@
-# Data-independent-pruning-using-Coresets
+# Data independent neural pruning via coresets
 
 ## Code is basically implementation of the following paper.
 
